@@ -6,7 +6,7 @@
     ⭐️Defeat email spam with the power of machine learning⭐️ <br>
 </h1>
 
-#   [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
+#   [`Demo video link `](https://drive.google.com/file/d/1Px9iNomOugP-evuOW9Kr8Q7dDOZ35fNC/view?pli=1) [`Other links `](https://docs.google.com/presentation/d/1Q3j7M6oDn82u8Gkugo0LLQFCQjncN05L/edit?usp=drivesdk&ouid=100754435507059747674&rtpof=true&sd=true) 
 Email spam detection using machine learning involves training a model on a large dataset of emails labeled as spam or not spam, and using the model to predict whether incoming emails are likely to be spam or not based on various features and patterns in the email content. By continuously updating and refining the model with new data, the system can become more accurate over time in identifying and filtering out unwanted spam emails. , The prototype email spam detection using machine learning leverages algorithms and patterns in email data to classify emails as either spam or non-spam. By analyzing various features such as the content of the email, sender information, and email metadata, the model can accurately predict and flag suspicious emails as spam. This helps users to filter out unwanted emails and protect against potential security threats , make sure that demo video also has narration made by the team members and shows the entire walkthrough of the project , for hardware projects , images , working video and code are required
 ## Team Details
 `Team number` : VH044
@@ -20,12 +20,8 @@ Email spam detection using machine learning involves training a model on a large
 
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
-       <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/Krishnakanumarla/VH044/assets/163702392/77c43c85-22bd-4c4e-9d1c-7795c68821e7" alt="Image 1" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/Krishnakanumarla/VH044/assets/163702392/edae6a32-0677-435f-994d-f876e84c8285" alt="Image 2" style="width: 30%; margin: 5px;">
 </div>
 
 ## Problem statement 
@@ -57,8 +53,6 @@ Technical implementation for a email spam detection project using a machine lear
 7. Hyperparameter Tuning: Fine-tune the hyperparameters of the Naive Bayes algorithm using techniques like grid search or random search.
 
 8. Deployment: Once the model is trained and evaluated, deploy it in a production environment to classify new incoming emails as spam or ham.
-
-![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
 
 ## Techstacks used 
 Programming Languages: Python
